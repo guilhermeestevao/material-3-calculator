@@ -22,7 +22,7 @@ android {
 
     buildTypes {
         create("staging") {
-            applicationIdSuffix = ".debugStaging"
+            applicationIdSuffix = ".staging"
             isMinifyEnabled = true
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
