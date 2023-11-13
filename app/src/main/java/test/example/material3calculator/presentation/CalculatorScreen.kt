@@ -40,7 +40,7 @@ fun CalcularScreen(
                             bottomEnd = 25.dp
                         )
                     )
-                    .background(MaterialTheme.colorScheme.secondaryContainer)
+                    .background(MaterialTheme.colorScheme.primaryContainer)
                     .padding(
                         vertical = 64.dp,
                         horizontal = 16.dp
